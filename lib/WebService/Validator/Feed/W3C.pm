@@ -12,8 +12,8 @@ use base qw/Class::Accessor/;
 
 our $VERSION = "0.6";
 
-__PACKAGE__->mk_accessors    qw/user_agent validator_uri/;
-__PACKAGE__->mk_ro_accessors qw/response request_uri som success/;
+__PACKAGE__->mk_accessors( qw/user_agent validator_uri/ );
+__PACKAGE__->mk_ro_accessors( qw/response request_uri som success/ );
 
 sub new
 {
