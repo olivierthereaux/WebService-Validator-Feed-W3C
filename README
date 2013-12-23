@@ -29,7 +29,7 @@ This module requires these other modules and libraries:
 COPYRIGHT AND LICENCE
 
 Written by olivier Thereaux <ot@w3.org> for W3C.
-Patches and tests by Stephen Rushe 
+Patches and tests by Stephen Rushe and David Moreno
 Based on the WebService-Validator-CSS-W3C module
 (c) 2004 by Bjoern Hoehrmann <bjoern@hoehrmann.de>
 

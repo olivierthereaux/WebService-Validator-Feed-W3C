@@ -1,5 +1,7 @@
 Revision history for Perl extension WebService::Validator::Feed::W3C.
 
+0.7 Mon Dec 23, 2013
+  Bug fix (deprecated use of qw) courtesy David Moreno
 0.6 Fri Jan 23, 2009
   All changes in this version courtesy of Stephen Rushe
   - using POST instead of GET as a workaround for "Request-URI Too Large" issue
